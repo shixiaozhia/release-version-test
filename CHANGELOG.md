@@ -1,5 +1,17 @@
 # Changelog
 
+# [2.1.0](https://github.com/shixiaozhia/release-version-test/compare/2.0.0...2.1.0) (2025-09-18)
+
+
+### Bug Fixes
+
+* resolve issue [#123](https://github.com/shixiaozhia/release-version-test/issues/123) ([d3249c3](https://github.com/shixiaozhia/release-version-test/commit/d3249c3217f4decf05ffcfaae201ecca08a9fcf1))
+
+
+### Features
+
+* add feature a ([e681bb3](https://github.com/shixiaozhia/release-version-test/commit/e681bb39b55ab806f1a087d55e6ff96d6aa7a0d8))
+
 # 2.0.0 (2025-09-18)
 
 
