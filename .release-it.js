@@ -1,0 +1,14 @@
+module.exports = {
+  plugins: {
+    "@release-it/conventional-changelog": {
+      preset: "angular",
+      infile: "CHANGELOG.md"
+    }
+  },
+  git: {
+    commitMessage: "chore: release v${version}"
+  },
+  github: {
+    release: false
+  }
+};
